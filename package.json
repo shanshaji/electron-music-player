@@ -7,14 +7,6 @@
     "start": "electron .",
     "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
   "author": "Shan",
   "license": "MIT",
   "devDependencies": {
